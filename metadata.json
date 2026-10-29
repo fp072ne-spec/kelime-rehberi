@@ -1,0 +1,6 @@
+{
+  "name": "Kelime Rehberi",
+  "description": "İngilizce, İspanyolca ve Türkçe 2100+ kelime ve 300 örnek cümle rehberi, sesli telaffuz, interaktif quiz ve flaş kartlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
